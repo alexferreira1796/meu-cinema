@@ -9,7 +9,7 @@ const Header = () => {
       <Link className="logo" to="/">
         <img src={logo} alt="Meu Cinema" />
       </Link>
-      <Link className="favoritos" to="/">
+      <Link className="favoritos" to="/favoritos">
         Favoritos
       </Link>
     </header>
