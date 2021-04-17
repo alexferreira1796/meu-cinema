@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css";
+import "./home.css";
 import api from "../../services/api";
 import { Link } from "react-router-dom";
 

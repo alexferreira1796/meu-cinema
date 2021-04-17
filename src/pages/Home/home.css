@@ -3,11 +3,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 960px;
-}
-
-.lista-filmes {
-  margin: 15px;
+  max-width: 960px;
+  width: 100%;
 }
 
 .lista-filmes article {

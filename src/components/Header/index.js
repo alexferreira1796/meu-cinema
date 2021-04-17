@@ -1,5 +1,5 @@
 import React from "react";
-import "./styles.css";
+import "./header.css";
 import logo from "../../assets/Meu-Cinema.png";
 import { Link } from "react-router-dom";
 
