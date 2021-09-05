@@ -4,7 +4,7 @@
 
 <p>O projeto foi criado utilizando as seguintes tecnologias: ReactJS, Styled-components. Durante o treinamento do Sujeito Programador</p>
 
-### Segue abaixo as principais tecnologias utilizadas neste projeto:
+## Segue abaixo as principais tecnologias utilizadas neste projeto:
 <div style="margin-top: 20px">
     <ul>
         <li>
@@ -27,3 +27,6 @@
         </li>
     </ul>
 </div>
+
+
+### Overview: <a href="https://meu-cinema.netlify.app/">Meu Cinema<a>
